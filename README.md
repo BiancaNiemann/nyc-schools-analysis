@@ -16,7 +16,7 @@ The project is divided into four main sections, each focusing on a different sta
 - **File:** `school-safety-report.csv`  
 - **Tool:** Google Sheets  
 - **Description:**  
-  Performed exploratory data analysis and answered key questions about school safety incidents using filtering, aggregation, and visualization techniques.  
+  Performed exploratory data analysis and answered key questions about school safety incidents using filtering and Pivot tables.  
 
 ---
 
