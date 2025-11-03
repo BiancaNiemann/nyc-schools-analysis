@@ -99,3 +99,7 @@ plt.show()
 - Data cleaning and transformation with **Pandas**
 - Summarizing and grouping data
 - Creating visualizations using **Matplotlib**
+
+---
+
+### 🔗 [Back to Main Project README](https://github.com/BiancaNiemann/nyc-schools-analysis)
